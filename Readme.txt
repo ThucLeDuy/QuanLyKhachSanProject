@@ -1,3 +1,7 @@
-GI 2 1 7
--m D
-L v
+Quản lý khách sạn
+1. Mô tả chung
+*\\*
+2. Chức năng chính
+*\\"
+3. Cài đặt
+*\\*
