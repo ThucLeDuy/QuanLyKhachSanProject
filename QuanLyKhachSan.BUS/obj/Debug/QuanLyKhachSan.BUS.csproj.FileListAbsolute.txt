@@ -1,0 +1,16 @@
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.BUS.dll
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.BUS.pdb
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.DAO.dll
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.DAO.pdb
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\obj\Debug\QuanLyKhachSan.BUS.csprojResolveAssemblyReference.cache
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\obj\Debug\QuanLyKhachSan.BUS.dll
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\obj\Debug\QuanLyKhachSan.BUS.pdb
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.BUS.dll.config
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.BUS.dll.config
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.BUS.dll
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.BUS.pdb
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.DAO.dll
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\bin\Debug\QuanLyKhachSan.DAO.pdb
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\obj\Debug\QuanLyKhachSan.BUS.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\obj\Debug\QuanLyKhachSan.BUS.dll
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.BUS\obj\Debug\QuanLyKhachSan.BUS.pdb

@@ -1,0 +1,12 @@
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.DAO\bin\Debug\QuanLyKhachSan.DAO.dll.config
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.DAO\bin\Debug\QuanLyKhachSan.DAO.dll
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.DAO\bin\Debug\QuanLyKhachSan.DAO.pdb
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.DAO\obj\Debug\QuanLyKhachSan.DAO.dll
+c:\users\ldvm\documents\visual studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.DAO\obj\Debug\QuanLyKhachSan.DAO.pdb
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\QuanLyKhachSan.DAO\obj\Debug\QuanLyKhachSan.DAO.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.DAO\bin\Debug\QuanLyKhachSan.DAO.dll.config
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.DAO\bin\Debug\QuanLyKhachSan.DAO.dll
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.DAO\bin\Debug\QuanLyKhachSan.DAO.pdb
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.DAO\obj\Debug\QuanLyKhachSan.DAO.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.DAO\obj\Debug\QuanLyKhachSan.DAO.dll
+D:\Visual Studio 2015\QuanLyKhachSan\QuanLyKhachSan.DAO\obj\Debug\QuanLyKhachSan.DAO.pdb

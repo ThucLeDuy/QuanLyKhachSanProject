@@ -1,0 +1,9 @@
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\bin\Debug\UnitTestQuanLyKhachSan.dll
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\bin\Debug\UnitTestQuanLyKhachSan.pdb
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\bin\Debug\QuanLyKhachSan.BUS.dll
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\bin\Debug\QuanLyKhachSan.DAO.dll
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\bin\Debug\QuanLyKhachSan.BUS.pdb
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\bin\Debug\QuanLyKhachSan.DAO.pdb
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\obj\Debug\UnitTestQuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\obj\Debug\UnitTestQuanLyKhachSan.dll
+C:\Users\LDvm\Documents\Visual Studio 2015\Projects\QuanLyKhachSan\UnitTestQuanLyKhachSan\obj\Debug\UnitTestQuanLyKhachSan.pdb
